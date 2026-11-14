@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This Power BI project analyzes the behavior and spending patterns of 2.2K (2,240) customers. The dashboard provides insights into customer demographics, income, spending habits, purchase methods, marital status, children at home, recency, and customer tenure. Interactive KPIs, charts, and slicers help identify trends and support data\-driven business decisions.
+This Power BI project analyzes the behavior and spending patterns of 2.2K (2,240) customers using a dataset containing 2,240 rows and 20 columns including custom/calculated columns. The dashboard provides insights into customer demographics, income, spending habits, purchase methods, marital status, children at home, recency, and customer tenure. Interactive KPIs, charts, and slicers help identify trends and support data\-driven business decisions.
 
 ## Dataset Information
 
