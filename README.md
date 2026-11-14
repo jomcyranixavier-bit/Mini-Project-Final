@@ -134,7 +134,6 @@ The analysis shows that married and highly educated customers contribute signifi
 - Power Query
 - DAX
 - Data Visualization
-- Data Modeling
 - Microsoft Excel
 
 
